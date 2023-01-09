@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #0A2647;
+}
+
+.navbar .navbar-brand,
+.nav-item .nav-link {
+    color: #fff;
+}
+
+.navbar-toggler{
+    background-color: #fff;
+}
+.nav-pills .nav-link.active {
+    background-color: #fff;
+    color:#0A2647;
+}
+
+.fonte-destaque {
+    font-family: 'Bakbak One', cursive;
+}
+
+#carousel img {
+    max-height: 370px;
+    width: 100%;
+}
