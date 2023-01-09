@@ -11,12 +11,13 @@ body {
     color: #fff;
 }
 
-.navbar-toggler{
+.navbar-toggler {
     background-color: #fff;
 }
+
 .nav-pills .nav-link.active {
     background-color: #fff;
-    color:#0A2647;
+    color: #0A2647;
 }
 
 .fonte-destaque {
@@ -26,4 +27,13 @@ body {
 #carousel img {
     max-height: 370px;
     width: 100%;
+}
+
+
+#sobre-a-loja {
+    background-color: #2C74B3;
+}
+
+.text-decoration {
+    color: #ddd;
 }
