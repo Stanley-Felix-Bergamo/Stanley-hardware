@@ -1,6 +1,6 @@
 # Stanley Hardware
 
-<p>Landing page de uma loja de peças eletrônicos </p>
+<p>Landing page de uma loja de peças de eletrônicos </p>
 <!-- 
 <p>Saiba mais acessando o site <a href="">Clicando aki</a></p> 
 <div align="center" >
