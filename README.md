@@ -1,8 +1,9 @@
 # Stanley Hardware
 
 <p>Landing page de uma loja de eletrônicos </p>
+
+<p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Stanley-hardware/">Clicando aki</a></p> 
 <!-- 
-<p>Saiba mais acessando o site <a href="">Clicando aki</a></p> 
 <div align="center" >
 <img src="" alt="imagem">
 </div>
