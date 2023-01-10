@@ -3,11 +3,10 @@
 <p>Landing page de uma loja de eletrônicos </p>
 
 <p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Stanley-hardware/">Clicando aki</a></p> 
-<!-- 
 <div align="center" >
-<img src="" alt="imagem">
+<img src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Stanley-hardware/main/image/mac.png" alt="imagem">
 </div>
--->
+
 
 <h2>💻 Tecnologias utilizadas</h2>
 
