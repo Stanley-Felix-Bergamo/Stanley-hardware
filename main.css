@@ -2,8 +2,23 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.navbar {
+.navbar,
+.btn,
+footer {
     background-color: #0A2647;
+}
+
+footer {
+    color: #fff;
+}
+
+.btn {
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: #2C74B3;
+    color: #fff;
 }
 
 .navbar .navbar-brand,
@@ -15,7 +30,8 @@ body {
     background-color: #fff;
 }
 
-.nav-pills .nav-link.active {
+.nav-pills .nav-link.active,
+.nav-hardware .nav-link.active {
     background-color: #fff;
     color: #0A2647;
 }
@@ -29,11 +45,28 @@ body {
     width: 100%;
 }
 
-
-#sobre-a-loja {
+.fundo-zul {
     background-color: #2C74B3;
 }
 
 .text-decoration {
-    color: #ddd;
+    color: #0A2647;
+}
+
+
+#equipe .row img {
+    max-height: 230px;
+}
+
+#hardware img {
+    max-height: 200px;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
 }
