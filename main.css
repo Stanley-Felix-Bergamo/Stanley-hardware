@@ -70,3 +70,14 @@ footer {
 .social-links a {
     text-decoration: none;
 }
+
+
+@media (min-width:768px)and (max-width:900px) {
+    #equipe .row img {
+        max-height: 120px;
+    }
+
+    #hardware img {
+        max-height: 100px;
+    }
+}
